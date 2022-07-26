@@ -4,6 +4,9 @@
 
 /mongo
 
+yarn.lock
+package-lock.json
+
 .env
 .env.prod
 # Logs
