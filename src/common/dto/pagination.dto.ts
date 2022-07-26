@@ -1,3 +1,4 @@
+import { ApiParam, ApiProperty } from "@nestjs/swagger"
 import { IsNumber, IsOptional, IsPositive, Min } from "class-validator"
 
 export class PaginationDto {
